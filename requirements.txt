@@ -1,0 +1,6 @@
+streamlit
+paramiko
+pysnmp
+pandas
+numpy
+scikit-learn
